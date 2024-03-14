@@ -1,4 +1,4 @@
-## PROMISE TASK ##   
-## RANDOM DOG IMAGE ##      
+## REACT TASK ##   
+## REACT PRICE CARD ##   
 * Published URL   
- [LINK](https://reactprizecard.netlify.app/)
+ [LINK](https://reactprizecard.netlify.app/)   
